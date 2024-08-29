@@ -14,8 +14,24 @@
   </a>
 </p>
 
+
 <p>
-  Highly motivated Electrical Engineer with a strong foundation in Electrical and Computer Engineering. Possessing a keen analytical mind and proven collaborative skills, I am seeking to advance my expertise in Artificial Intelligence. With a deep interest in:</p> <li>computer vision,</li> <li>data science,</li> <li>image processing,</li> <li>machine learning,</li> <li>deep learning,</li> <li>reinforcement learning,</li> <li>transfer learning,</li> <li>robotics,</li> and IoT, I am eager to contribute to cutting-edge research and development in these domains.
+  Highly motivated Electrical Engineer with a strong foundation in Electrical and Computer Engineering. Possessing a keen analytical mind and proven collaborative skills, I am seeking to advance my expertise in Artificial Intelligence. With a deep interest in:
+</p>
+<ul>
+  <li>Computer Vision</li>
+  <li>Data Science</li>
+  <li>Image Processing</li>
+  <li>Machine Learning</li>
+  <li>Deep Learning</li>
+  <li>Reinforcement Learning</li>
+  <li>Transfer Learning</li>
+  <li>Robotics</li>
+  <li>IoT</li>
+</ul>
+<p>
+  I am eager to contribute to cutting-edge research and development in these domains.
+</p>
 
 
 <p>Let's connect and explore exciting opportunities together!</p>
